@@ -1,7 +1,8 @@
 package admit;
 import java.util.*;
 
-public class Admit {
+public class Admit 
+{
 	
 	public static double Applicant(int student)                                                                    //function depending on which applicant it is
 	   {
